@@ -1,6 +1,6 @@
 import os
-def index():
-return "WaktuSolat Bot aktif", 200
+def home():
+    return "WaktuSolat Bot aktif", 200
 
 
 
